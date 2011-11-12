@@ -1,0 +1,3 @@
+= node_irc_sux
+
+Stupid node.js IRC bot. Listens for "!sux Hates_" in a channel and returns "Hates_ sucks!" in return.
